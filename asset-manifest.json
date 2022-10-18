@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/counter-react.git/static/css/main.8082771e.css",
-    "main.js": "/counter-react.git/static/js/main.d4086966.js",
+    "main.css": "/counter-react.git/static/css/main.eb324425.css",
+    "main.js": "/counter-react.git/static/js/main.3cc1d732.js",
     "index.html": "/counter-react.git/index.html",
-    "main.8082771e.css.map": "/counter-react.git/static/css/main.8082771e.css.map",
-    "main.d4086966.js.map": "/counter-react.git/static/js/main.d4086966.js.map"
+    "main.eb324425.css.map": "/counter-react.git/static/css/main.eb324425.css.map",
+    "main.3cc1d732.js.map": "/counter-react.git/static/js/main.3cc1d732.js.map"
   },
   "entrypoints": [
-    "static/css/main.8082771e.css",
-    "static/js/main.d4086966.js"
+    "static/css/main.eb324425.css",
+    "static/js/main.3cc1d732.js"
   ]
 }
