@@ -1,3 +1,21 @@
 .App {
+  background-color: #bbb;
   text-align: center;
+  border: 2px solid rgb(19, 168, 56);
+  width: 500px;
+  margin: 20px auto;
+  border-radius: 20px;
+  padding: 40px;
+}
+
+button {
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+h2 {
+  font-size: 40px;
 }
