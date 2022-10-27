@@ -19,3 +19,11 @@ button {
 h2 {
   font-size: 40px;
 }
+
+.resetButtonStyle {
+  background-color: lightgreen;
+  padding: 15px;
+  border-radius: 4px;
+  border: 1px solid red;
+  font-weight: bold;
+}
