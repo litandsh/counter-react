@@ -21,7 +21,7 @@ h2 {
 }
 
 .resetButtonStyle {
-  background-color: lightgreen;
+  background-color: rgb(134, 215, 134);
   padding: 15px;
   border-radius: 4px;
   border: 1px solid red;

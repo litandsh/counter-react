@@ -26,7 +26,8 @@ function App() {
         return <Button onClick={incrementCount} text={text} key={index} />;
       })}
 
-      <ResetButton onClick={resetCount} />
+      {!!count && <ResetButton onClick={resetCount} />}
+      
 
     </div>
   );
